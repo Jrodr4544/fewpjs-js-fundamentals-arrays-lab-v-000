@@ -1,3 +1,2 @@
 // Write your solution here!
-let pets = []
-pets.append("Odie")
+const append, prepend, removeLast, removeFirst;
