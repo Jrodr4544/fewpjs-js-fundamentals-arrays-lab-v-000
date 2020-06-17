@@ -1,4 +1,7 @@
 // Write your solution here!
-const arr = 
-const append, prepend, removeLast, removeFirst;
+const arr = ["Milo", "Otis", "Garfield"];
+const append = arr;
+const prepend = arr;
+const removeLast = arr;
+const removeFirst = arr;
 
