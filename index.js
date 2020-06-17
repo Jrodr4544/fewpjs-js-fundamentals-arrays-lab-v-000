@@ -2,6 +2,6 @@
 const arr = ["Milo", "Otis", "Garfield"];
 const append = arr;
 const prepend = arr;
-const removeLast = arr.pop();
+const removeLast = arr.unshift();
 const removeFirst = arr;
 
